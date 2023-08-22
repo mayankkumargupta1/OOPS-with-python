@@ -1,4 +1,4 @@
-A function is a piece of code that is executed when called.  Apna Aryan app banayega  
+A function is a piece of code that is executed when called.  Apna Aryan billionaire banega 
 
 IN REAL LIFE CODING, while using frameworks and libraries we don't give a Duck about the code that is written inside the function. We Straight away use it. This using the code inside the class and a function without worrying about the internal code is **Abstraction**.
 
