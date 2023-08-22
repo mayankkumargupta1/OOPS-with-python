@@ -129,8 +129,17 @@
                 "file": "Abstraction and encapsulation.md"
               }
             }
+          },
+          {
+            "id": "bb9e0c447c76c8f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
