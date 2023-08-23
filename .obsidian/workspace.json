@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstraction and encapsulation.md",
+                "file": "static (class property).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstraction and encapsulation.md",
+                "file": "static (class property).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstraction and encapsulation.md",
+                "file": "static (class property).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstraction and encapsulation.md"
+                "file": "static (class property).md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "274cadadf29b8564",
   "lastOpenFiles": [
+    "Abstraction and encapsulation.md",
     "Object Oriented programming with python.md",
     "class structure.md",
     "exception handling.md",
     "Class relations.md",
     "Pasted image 20230821162305.png",
     "Pasted image 20230821162211.png",
-    "Abstraction and encapsulation.md",
     "Pasted image 20230820172259.png",
     "collection of objects.md",
     "Pasted image 20230819184713.png",
