@@ -72,3 +72,6 @@ print("My current crush is",obj.get_static())
 
 #### How to declare a static variable in class structure 
 
+![[Pasted image 20230823201434.png]]
+
+just add `-> static` after the element 
