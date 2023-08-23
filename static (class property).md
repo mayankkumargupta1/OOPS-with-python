@@ -68,3 +68,6 @@ print("My current crush is",obj.get_static())
 
 
 ### we can also create static method and access the same way we access static variables :D
+
+
+#### How to declare a static variable in class structure 
