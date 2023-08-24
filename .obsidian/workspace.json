@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e1aabada7792d89d",
+        "id": "d7db09d208c29827",
         "type": "tabs",
         "children": [
           {
-            "id": "274cadadf29b8564",
+            "id": "7e4729bf21fc9d28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Object Oriented programming with python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Object Oriented programming with python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Object Oriented programming with python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Object Oriented programming with python.md"
+              }
             }
           },
           {
@@ -148,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "274cadadf29b8564",
+  "active": "7e4729bf21fc9d28",
   "lastOpenFiles": [
+    "Class relations.md",
     "static (class property).md",
     "Pasted image 20230823201434.png",
     "difference between a function and a method.md",
@@ -157,7 +166,6 @@
     "Object Oriented programming with python.md",
     "class structure.md",
     "exception handling.md",
-    "Class relations.md",
     "Pasted image 20230821162305.png",
     "Pasted image 20230821162211.png",
     "Pasted image 20230820172259.png",
