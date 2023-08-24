@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Oriented programming with python.md",
+                "file": "Abstraction and encapsulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0b58513067e96f09",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented programming with python.md",
+                "file": "Abstraction and encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Oriented programming with python.md",
+                "file": "Abstraction and encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented programming with python.md"
+                "file": "Abstraction and encapsulation.md"
               }
             }
           },
@@ -158,12 +157,12 @@
   },
   "active": "7e4729bf21fc9d28",
   "lastOpenFiles": [
+    "Object Oriented programming with python.md",
     "Class relations.md",
     "static (class property).md",
     "Pasted image 20230823201434.png",
     "difference between a function and a method.md",
     "Abstraction and encapsulation.md",
-    "Object Oriented programming with python.md",
     "class structure.md",
     "exception handling.md",
     "Pasted image 20230821162305.png",
