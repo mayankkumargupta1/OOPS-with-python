@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstraction and encapsulation.md",
+                "file": "Class relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstraction and encapsulation.md",
+                "file": "Class relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstraction and encapsulation.md",
+                "file": "Class relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstraction and encapsulation.md"
+                "file": "Class relations.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "7e4729bf21fc9d28",
   "lastOpenFiles": [
+    "Abstraction and encapsulation.md",
     "Object Oriented programming with python.md",
     "Class relations.md",
     "static (class property).md",
     "Pasted image 20230823201434.png",
     "difference between a function and a method.md",
-    "Abstraction and encapsulation.md",
     "class structure.md",
     "exception handling.md",
     "Pasted image 20230821162305.png",
