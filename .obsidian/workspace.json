@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class relations.md",
+                "file": "args and kwargs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class relations.md",
+                "file": "args and kwargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class relations.md",
+                "file": "args and kwargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class relations.md"
+                "file": "args and kwargs.md"
               }
             }
           },
@@ -157,13 +157,16 @@
   },
   "active": "7e4729bf21fc9d28",
   "lastOpenFiles": [
-    "Abstraction and encapsulation.md",
     "Object Oriented programming with python.md",
+    "args and kwargs.md",
+    "class structure.md",
+    "Class and Object.md",
+    "__str__ (meaningful  printing of object).md",
     "Class relations.md",
+    "Abstraction and encapsulation.md",
     "static (class property).md",
     "Pasted image 20230823201434.png",
     "difference between a function and a method.md",
-    "class structure.md",
     "exception handling.md",
     "Pasted image 20230821162305.png",
     "Pasted image 20230821162211.png",
@@ -177,11 +180,9 @@
     "Inheritance.md",
     "Untitled 1.canvas",
     "desktop.ini",
-    "__str__ (meaningful  printing of object).md",
     "Pasted image 20230803012756.png",
     "Pasted image 20230803011430.png",
     "Attributes.md",
-    "Class and Object.md",
     "Pass by reference.md",
     "Reference Variable.md",
     "python programming  fundamentals/AA Index.md",
