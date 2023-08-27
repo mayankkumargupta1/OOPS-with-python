@@ -24,5 +24,6 @@ this is a very good usage of args. This will help to make the function along the
 now, in some case we might also use kwargs to pass specific variables which might not get accepted by the function so to resolve that we use kwargs.
 
 ```python 
-
+class example: 
+	def __init__:
 ```
