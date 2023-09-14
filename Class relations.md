@@ -352,7 +352,7 @@ class phone:
     def __init__(self , price :int, color :str, camera :str):
         self.__price = price
         self.color = color
-        self.camera = camer
+        self.camera = camera
     def show_price(self):
         return self.__price
         
