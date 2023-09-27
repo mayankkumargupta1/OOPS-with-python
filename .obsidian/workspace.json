@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class relations.md",
+                "file": "Object Oriented programming with python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class relations.md",
+                "file": "Object Oriented programming with python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class relations.md",
+                "file": "Object Oriented programming with python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class relations.md"
+                "file": "Object Oriented programming with python.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "7e4729bf21fc9d28",
   "lastOpenFiles": [
+    "Class relations.md",
     "Object Oriented programming with python.md",
     "static (class property).md",
     "collection of objects.md",
@@ -177,7 +178,6 @@
     "constructor.md",
     "Attributes.md",
     "Class and Object.md",
-    "Class relations.md",
     "args and kwargs.md",
     "class structure.md",
     "Abstraction and encapsulation.md",
