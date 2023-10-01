@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "With keyword.md",
+                "file": "Reference Variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "With keyword.md",
+                "file": "Reference Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "With keyword.md",
+                "file": "Reference Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "With keyword.md"
+                "file": "Reference Variable.md"
               }
             }
           },
@@ -168,17 +168,17 @@
   "active": "b9b890f8240f7cba",
   "lastOpenFiles": [
     "Object Oriented programming with python.md",
-    "With keyword.md",
     "Class relations.md",
+    "constructor.md",
+    "Attributes.md",
+    "Class and Object.md",
+    "__str__ (meaningful  printing of object).md",
+    "With keyword.md",
     "static (class property).md",
     "collection of objects.md",
     "Pass by reference.md",
     "discipline of writing class and method.md",
-    "__str__ (meaningful  printing of object).md",
     "Reference Variable.md",
-    "constructor.md",
-    "Attributes.md",
-    "Class and Object.md",
     "args and kwargs.md",
     "class structure.md",
     "Abstraction and encapsulation.md",
