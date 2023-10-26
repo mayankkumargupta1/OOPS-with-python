@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Variable.md",
+                "file": "Class relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Variable.md",
+                "file": "Class relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Variable.md",
+                "file": "Class relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Variable.md"
+                "file": "Class relations.md"
               }
             }
           },
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b890f8240f7cba",
+  "active": "3b01bcefccd5c4d2",
   "lastOpenFiles": [
+    "Reference Variable.md",
     "Object Oriented programming with python.md",
     "Class relations.md",
     "constructor.md",
@@ -178,7 +179,6 @@
     "collection of objects.md",
     "Pass by reference.md",
     "discipline of writing class and method.md",
-    "Reference Variable.md",
     "args and kwargs.md",
     "class structure.md",
     "Abstraction and encapsulation.md",
