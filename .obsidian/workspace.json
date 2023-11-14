@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AA Object Oriented programming with python.md",
+                "file": "constructor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AA Object Oriented programming with python.md",
+                "file": "constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AA Object Oriented programming with python.md",
+                "file": "constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AA Object Oriented programming with python.md"
+                "file": "constructor.md"
               }
             }
           },
@@ -167,11 +167,11 @@
   },
   "active": "b9b890f8240f7cba",
   "lastOpenFiles": [
+    "AA Object Oriented programming with python.md",
     "Class relations.md",
     "Pass by reference.md",
     "discipline of writing class and method.md",
     "exception handling.md",
-    "AA Object Oriented programming with python.md",
     "With keyword.md",
     "Reference Variable.md",
     "static (class property).md",
