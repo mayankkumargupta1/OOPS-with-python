@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "constructor.md",
+                "file": "Class relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "constructor.md",
+                "file": "Class relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "constructor.md",
+                "file": "Class relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "constructor.md"
+                "file": "Class relations.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "b9b890f8240f7cba",
   "lastOpenFiles": [
+    "constructor.md",
     "AA Object Oriented programming with python.md",
     "Class relations.md",
     "Pass by reference.md",
@@ -180,7 +181,6 @@
     "args and kwargs.md",
     "class structure.md",
     "difference between a function and a method.md",
-    "constructor.md",
     "Class and Object.md",
     "__str__ (meaningful  printing of object).md",
     "collection of objects.md",
